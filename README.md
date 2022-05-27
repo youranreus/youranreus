@@ -15,7 +15,7 @@ Guten Tag！This is youranreus, a CS student from SZTU. 今、日本语とドイ
  - 发呆发着发着睡着了
 
 ### My Github
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youranreus&layout=compact" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=youranreus" alt="stats" height="185px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youranreus&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=youranreus&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
 <!--
 **youranreus/youranreus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
