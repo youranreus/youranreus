@@ -15,12 +15,7 @@ Guten Tag！This is youranreus, a CS student from SZTU. 今、日本语とドイ
  - 发呆发着发着睡着了
 
 ### 丢人的Github数据
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=youranreus)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=youranreus&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youranreus&layout=compact" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=youranreus" alt="stats" height="185px">
 <!--
 **youranreus/youranreus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
